@@ -2,6 +2,9 @@
 12/29/2007 roblox client pulled from https://archive.roblonium.com/Client/Windows/ChromeAddersDump/Clients/2007/12.2007/December%2029%20%280.3.676.0%29/
 patched using guides from https://github.com/Yosh1002/rblx-scripts
 
+# IMPORTANT
+As of writing this (4/29/2024 @ 4:28 PM, UTC -8:00) I have not been able to get multiplayer functionality to work. 
+
 # SHADERS
 I added a duplicate of the Roblox.exe executable that enables both Bloom and Depth of Field shaders, named RobloxShaders.exe.
 
