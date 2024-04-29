@@ -3,8 +3,8 @@
 patched using guides from https://github.com/Yosh1002/rblx-scripts
 
 # SHADERS
-I added a duplicate of the Roblox.exe executable that enables both Bloom and Depth of Field shaders. To use them,
-you must switch to the OpenGL graphics mode.
+I added a duplicate of the Roblox.exe executable that enables both Bloom and Depth of Field shaders, named RobloxShaders.exe To use them, you must switch 
+to the OpenGL graphics mode.
 
 There are two versions of OpenGL included: Stable and Experimental. I recommend using Stable, however I have not
 tested Experimental as of writing this (4/29/2024 @ 3:06 PM, UTC -8:00)
